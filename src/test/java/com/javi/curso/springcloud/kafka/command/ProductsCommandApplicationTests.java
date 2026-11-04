@@ -1,4 +1,4 @@
-package com.javi.curso.springcloud.kafkacommand;
+package com.javi.curso.springcloud.kafka.command;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

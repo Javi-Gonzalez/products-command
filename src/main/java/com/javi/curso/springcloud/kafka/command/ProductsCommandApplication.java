@@ -1,4 +1,4 @@
-package com.javi.curso.springcloud.kafkacommand;
+package com.javi.curso.springcloud.kafka.command;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

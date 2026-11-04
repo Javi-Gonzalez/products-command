@@ -1,4 +1,4 @@
-package com.javi.curso.springcloud.kafkacommand.entities;
+package com.javi.curso.springcloud.kafka.command.entities;
 
 import jakarta.persistence.*;
 

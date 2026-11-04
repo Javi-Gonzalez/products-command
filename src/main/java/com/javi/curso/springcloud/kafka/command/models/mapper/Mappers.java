@@ -1,7 +1,7 @@
-package com.javi.curso.springcloud.kafkacommand.models.mapper;
+package com.javi.curso.springcloud.kafka.command.models.mapper;
 
-import com.javi.curso.springcloud.kafkacommand.entities.Product;
-import com.javi.curso.springcloud.kafkacommand.models.dto.ProductDto;
+import com.javi.curso.springcloud.kafka.command.entities.Product;
+import com.javi.curso.springcloud.kafka.command.models.dto.ProductDto;
 
 public final class Mappers {
 
